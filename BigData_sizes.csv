@@ -1,0 +1,28 @@
+"player","size_PB","player_label","size_label","year","x","color","area_size","logo_path","logo_rendering","arrow_specs","description_html","description_ppt"
+"Emails",5357.79525,"Emails/year","<b>5.4k PB/yr",2020,-1,"#b20062",73.1969620271224,"email.png","(0.09, 0.42, 0.06, 0.06)","(-1, 0.46, 65, -120)","<a href=""https://www.statista.com/statistics/1270424/daily-spam-volume-global/""><b>71437 B e-mails</b></a> sent<br>from 10/20 to 09/21
+(<a href=""https://www.lifewire.com/what-is-the-average-size-of-an-email-message-1171208""><b>75 KB</b></a>)","71437.27 B e-mails sent 
+from 10/20 to 09/21 (75KB)"
+"Spam",301.53805,,"<b>300 PB/yr",2020,5,"#7c2c82",17.3648509927382,"spam.png","(0.11, 0.25, 0.06, 0.06)","(5, 0.24, 30,-120)","<a href=""https://www.statista.com/statistics/1270424/daily-spam-volume-global/""><b>60307 B spam</b></a><br>e-mails(<a href=""https://medium.com/@raindrift/how-big-is-email-305bbdb69776""><b>5 KB</b></a><b>)</b>","60307.61 B spam e-mails
+(5KB)"
+"YouTube",263,"YouTube uploads/yr","<b>263 PB/yr",2021,12,"#ff0000",16.2172747402269,"youtube_logo.png","(0.23, 0.22, 0.10, 0.10)","(11.5, 0.21, -110, 80)","<a href=""https://backlinko.com/youtube-users#youtube-statistics""><b>720k hours/day</b></a><br>of video uploaded (<b><i>1 GB</i></b>)<br>","720k hours/dayf video uploa
+ Oded (1GB)"
+"Netflix",51100,"Streaming/year","<b>51.1k PB/yr",2021,17,"#e50914",226.053091109146,"netflix_icon.png","(0.32, 0.6, 0.1, 0.1)","(17, 0.66, -40, -80)","<a href=""https://mms.businesswire.com/media/20210929005835/en/911394/5/data-never-sleeps-9.0-1200px.jpg?download=1""><b>140 M hours/day</b></a><br>of streaming
+(<a href=""https://www.digitaltrends.com/movies/how-much-data-does-netflix-use/""><b>1 GB</b></a>)","140 M hours/day
+of streaming (1GB)"
+"Dropbox",568,"Storage added/year","<b>768 PB/yr",2021,22,"#0061fe",23.832750575626,"dropbox_icon.png","(0.36, 0.31, 0.08, 0.081)","(22, 0.25, -20, 130)","<a href=""https://backlinko.com/dropbox-users""><b>98.83 M new users<br>+ 1.17 M paid subs</b></a> in 2020<br>
+(<b><i>1 GB</i></b> and <b><i>400 GB</i></b>, respectively)","98.83 M new users + 1.17 M paid subs
+ In 2020 (1GB and 400GB, respectively)"
+"Facebook",252,"Photos uploaded/year","<b>252 PB/yr",2021,28,"#0869e1",15.8745078663875,"facebook_icon.png","(0.4, 0.225, 0.06, 0.06)","(28, 0.23, -10, -160)","<a href=""https://mms.businesswire.com/media/20210929005835/en/911394/5/data-never-sleeps-9.0-1200px.jpg?download=1""><b>240k photos/min.<br></b></a>shared&nbsp;in 2021<br>(<i><b>2 MB</b></i>)","240k photos/min. 
+shared in 2021 (2MB)"
+"Instagram",68,"Photos uploaded/year","<b>68 PB/yr",2021,33,"#e6476d",8.24621125123532,"instagram_icon.png","(0.49, 0.15, 0.05, 0.05)","(33, 0.14, -10, -90)","<a href=""https://mms.businesswire.com/media/20210929005835/en/911394/5/data-never-sleeps-9.0-1200px.jpg?download=1""><b>65k photos/min.</b></a> <br>shared in 2021<br>(<i><b>2 MB</b></i>)","65k photos/min. 
+Shared in 2021 (2MB) "
+"Google",62,"Search Index","<b>62 PB/yr",2021,39,"#fbbc04",7.87400787401181,"google_icon.png","(0.56, 0.145, 0.05, 0.05)","(39.5, 0.12, 100, 30)","<a href=""https://firstsiteguide.com/google-search-stats/""><b>&gt;30M webpages</b></a><br>in 2021 (<a href=""https://almanac.httparchive.org/en/2021/page-weight""><b>2.07 MB</b></a>)",">30M webpages 
+In 2021 (2.07MB)"
+"Amazon",500000,"AWS total storage","<b>500 EB<br>(total)",,43,"#ff9900",707.106781186548,"amazon_icon.png","(0.58, 0.87, 0.1, 0.1)","(37, 0.81, -120, -30)","<a href=""https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/""><b>100 T objects</b></a> stored<br>in S3 up to 2021 (<i><b>5 MB</b></i>)<br>","100 T objects stored in S3 
+in total up to 2021 (5MB) "
+"ATLAS data access",4380,"ATLAS data access","<b>4.4k PB",2020,48,"#124030",66.1815684310972,"atlas_logo_nowrite.png","(0.695, 0.44, 0.09, 0.09)","(46, 0.4, -100, 20)","<a href=""https://cds.cern.ch/record/2729668""><b>12 PB/day</b></a> transferred<br>by ATLAS in 2020",
+"LHC – real",160,"LHC stored data/year","<b>160 PB/yr",2018,53,"#95D5B2",12.6491106406735,,"()","(53, 0.2, -60, -40)","<b>LHC real</b><br>data in 2018",
+"LHC – simulated",240,"LHC simulated data/year","<b>240 PB/yr",2018,58,"#74C69D",15.4919333848297,,"()","(58, 0.2, -10, 90)","<b>LHC Monte Carlo</b><br>data in 2018",
+"HL-LHC – real",800,"HL-LHC stored data/year","<b>800 PB/yr",2026,63,"#40916C",28.2842712474619,"cern_logo_blue.png","(0.86, 0.35, 0.1, 0.1)","(62, 0.3, -80, -35)","<b>HL-LHC real</b><br>data expected in 2026",
+"HL-LHC – simulated",1200,"HL-LHC simulated data/year","<b>1200 PB/yr",2026,68,"#1B4332",34.6410161513775,,"()","(69, 0.3, 60, 70)","<b>HL-LHC Monte Carlo</b><br>data expected in 2026",
+"LHC – generated",40000000,"LHC generated data/year","<b>40k EB/yr",2018,75,"#090c08",6324.55532033676,"lhc_collision.png","(1.04, 0.6, 0.4, 0.4)","(66, 0.56, -0, -0)","<a href=""https://indico.cern.ch/event/605204/contributions/2440577/attachments/1471783/2277732/Calcolo-HEP-Perugia-20170605.pdf""><b>read-out</b> data </a><br>LHC in <b>2018</b>",
