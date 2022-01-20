@@ -20,7 +20,7 @@ Shared in 2021 (2MB) "
 In 2021 (2.07MB)"
 "Amazon",500000,"AWS total storage","<b>500 EB<br>(total)",,43,"#ff9900",707.106781186548,"amazon_icon.png","(0.58, 0.87, 0.1, 0.1)","(37, 0.81, -120, -30)","<a href=""https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/""><b>100 T objects</b></a> stored<br>in S3 up to 2021 (<i><b>5 MB</b></i>)<br>","100 T objects stored in S3 
 in total up to 2021 (5MB) "
-"WLCG transfers",4400,"ATLAS data access","<b>1.9k PB/yr",2020,48,"#124030",43.4989655049405,"WLCG_logo.png","(0.695, 0.42, 0.09, 0.09)","(46, 0.4, -100, 20)","<a href=""https://wlcg-public.web.cern.ch/about""><b>60 GB/s</b></a> transferred<br>by WLCG in 2018",
+"WLCG transfers",4400,"ATLAS data access","<b>1.9k PB/yr",2020,48,"#124030",43.4989655049405,"WLCG_logo.png","(0.695, 0.42, 0.09, 0.09)","(46, 0.4, -100, 20)","<a href=""https://wlcg-public.web.cern.ch/about""><b>60 GB/s</b></a> WLCG<br>transfers in 2018",
 "LHC – real",160,"LHC stored data/year","<b>160 PB/yr",2018,53,"#95D5B2",12.6491106406735,,"()","(53, 0.2, -60, -40)","<b>LHC real</b><br>data in 2018",
 "LHC – simulated",240,"LHC simulated data/year","<b>240 PB/yr",2018,58,"#74C69D",15.4919333848297,,"()","(58, 0.2, -10, 90)","<b>LHC Monte Carlo</b><br>data in 2018",
 "HL-LHC – real",800,"HL-LHC stored data/year","<b>800 PB/yr",2026,63,"#40916C",28.2842712474619,"cern_logo_blue.png","(0.86, 0.35, 0.1, 0.1)","(62, 0.3, -80, -35)","<b>HL-LHC real</b><br>data expected in 2026",
