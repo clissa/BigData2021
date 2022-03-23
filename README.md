@@ -6,3 +6,8 @@ The results are summarized in a bubble plot (interactive version [here](https://
 ![Big Data sizes 2021](BigData2021.svg)
 
 The code to reproduce the visualization is reported in the `Big Data players.ipynb` notebook.
+
+# Terms of Use
+The visual, code and data in this repository are available under the conditions set in the LICENCE.
+
+Their usage and adaptation is allowed provided that the owner of this repository is correctly credited. When using in academic contexts, please cite the work deposited on Arxiv: [Survey of Big Data sizes in 2021](https://arxiv.org/abs/2202.07659).
